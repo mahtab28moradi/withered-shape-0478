@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "withered-shape-0478",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "96c858bf-3212-496e-b259-9a6bb821cffc",
+      "database_name": "red-hall-76e4-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
